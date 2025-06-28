@@ -1,7 +1,7 @@
 using BepInEx;
 using HarmonyLib;
 
-[BepInPlugin("ant2357.one_gold_expansion_mod", "One Gold Expansion Mod", "1.0.1")]
+[BepInPlugin("ant2357.one_gold_expansion_mod", "One Gold Expansion Mod", "1.0.2")]
 public class Plugin : BaseUnityPlugin
 {
     private void Awake()
