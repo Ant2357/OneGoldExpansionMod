@@ -1,6 +1,12 @@
-# One Gold Expansion Mod
-![金塊一つで土地を四方にを広げられる事を説明するドット絵](preview.png "金塊一つで土地を四方にを広げられる事を説明するドット絵")
+<div style="text-align: center;">
+  <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3510900257">
+    <img alt="reviewdog" src="preview.jpg">
+  </a>
 
-This is a Mod that changes the cost of expanding land to one gold bar.
+  <h2 style="text-align: center;">
+    One Gold Expansion Mod
+  </h2>
 
-Elin にて、土地の拡張コストを金塊 1 個に変更する Mod です。
+  <p>This is a Mod that changes the cost of expanding land to one gold bar.</p>
+  <p>Elin にて、土地の拡張コストを金塊 1 個に変更する Mod です。</p>
+</div>
