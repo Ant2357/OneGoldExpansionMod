@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3510900257">
-    <img alt="reviewdog" src="preview.jpg">
+    <img alt="金塊一つで土地を四方にを広げられる事を説明するドット絵" src="preview.jpg">
   </a>
 </eiv>
 
